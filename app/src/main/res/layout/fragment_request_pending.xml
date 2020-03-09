@@ -18,7 +18,7 @@
         android:layout_marginTop="32dp"
         android:textSize="20sp"
         android:textColor="@color/colorPrimary"
-        android:text="@string/application_has_no_license"
+        android:text="@string/request_pending"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -30,12 +30,13 @@
         android:layout_marginTop="32dp"
         android:layout_marginLeft="16dp"
         android:textSize="15sp"
+
         android:layout_marginStart="16dp"
 
         android:layout_marginRight="16dp"
         android:layout_marginEnd="16dp"
 
-        android:text="@string/nolicense_message"
+        android:text="@string/requestpending_message"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txtTitle" />
@@ -46,13 +47,13 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
         android:layout_marginLeft="16dp"
-        android:padding="8dp"
         android:textColor="@color/colorPrimary"
         android:layout_marginStart="16dp"
+        android:padding="8dp"
         android:textSize="15sp"
         android:layout_marginEnd="16dp"
         android:layout_marginRight="16dp"
-        android:text="@string/requestlicense_message"
+        android:text="@string/please_contact_your_administrator"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txtNoLicenseMsg" />
@@ -65,7 +66,7 @@
         android:layout_marginEnd="16dp"
         style="@style/Widget.AppCompat.Button.Colored"
         android:layout_height="wrap_content"
-        android:text="@string/request"
+        android:text="@string/check"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txtRequestLabel" />
 
