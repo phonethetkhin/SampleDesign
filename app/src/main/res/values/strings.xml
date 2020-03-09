@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SampleDesign</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="application_has_no_license">Application Has No License !!!</string>
+    <string name="nolicense_message">Currently, your application has no license for using on this device.\n\nTo continue, your application must have license key.</string>
+    <string name="requestlicense_message">Request your license by using the following button</string>
+    <string name="request">Request</string>
+</resources>
