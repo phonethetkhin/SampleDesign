@@ -19,4 +19,6 @@
     <string name="try_again">Try Again</string>
     <string name="no_extra_license">No Extra License !!!</string>
     <string name="noextralicense_message">Currently, there is no extra license key for your application.\n\nBuy more license key for your application.</string>
+    <string name="fams">FAMS</string>
+    <string name="fams_app">fams-App</string>
 </resources>
